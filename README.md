@@ -1,6 +1,8 @@
+This thesis aims to design and implement a distributed database solution to enhance the management and querying of trajectory data.
+
 # Code Structure Description
 
-This appendix gives the structure of all the code modules (the implementation and experiments), many of which are referred by the Implementation chapter as it is better to refer to the source codes rather than pages of complex pseudo-codes of algorithms.
+This readme gives the structure of all the code modules (the implementation and experiments).
 
 ![Code Structure](structure.png)
 *Figure: One box represents one module while the arrows represent the dependence relationship.*
